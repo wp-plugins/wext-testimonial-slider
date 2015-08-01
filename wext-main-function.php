@@ -4,7 +4,7 @@
 Plugin Name: WEXT Testimonial Slider
 Plugin URI: http://www.absiddik.net/plugins/wext-t-slider
 Description: The WEXT Testimonial Slider is most popular & best free testimonial slider plugin.If you are thinking to build a testimonial slider in your website, then WEXT Testimonial Slider plugin is most required to you for taking your conversion rate to the next level. 
-Author: weXteam
+Author: AB Siddik
 Version: 1.0
 Author URI: http://wexteam.com
 */
