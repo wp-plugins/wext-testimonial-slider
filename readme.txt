@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The WEXT Testimonial Slider is most popular & best free testimonial slider plugin.If you are thinking to build a testimonial slider in your website, then WEXT Testimonial Slider plugin is most required to you for taking your conversion rate to the next level.
 
-*   [View a live demo &raquo;](http://wexteam.com/wext-slider)
+*   [View a live demo &raquo;](http://wexteam.com/index.php/wext-t-slider/)
 
 See the <a href="http://wordpress.org/plugins/wext-testimonial-slider/screenshots/">screenshots section</a> for visuals on WPXT Testimonial Slider features.
 
